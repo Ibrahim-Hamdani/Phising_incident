@@ -4,3 +4,6 @@ I was a level-one security operations center (SOC) analyst at a financial servic
 The security policies and procedures within the organization provided clear guidelines on how to handle specific alerts, including phishing incidents. I referred to the playbook, which contained a flowchart and detailed instructions to guide me through the process.
 
 Once my investigation was complete, I updated the alert ticket with all my findings related to the incident, documenting each step I took and the evidence supporting the malicious nature of the attachment. This ensured that the alert was properly resolved according to organizational policies.
+
+
+Files above include incident handler journal, alert ticket and phising playbook verison 1.0
